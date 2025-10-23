@@ -138,3 +138,13 @@ This project successfully demonstrates how data analytics and machine learning c
 Using **Random Forest classification**, the model achieved **98% accuracy**, making it an effective tool for HR teams to identify employees at risk of quitting and take proactive retention measures.
 
 ---
+
+### **Data Visualisation**
+
+<img width="928" height="924" alt="HR_Data_Correlation" src="https://github.com/user-attachments/assets/949d0170-49a8-4e29-abaf-acf73c915ef1" />
+
+<img width="576" height="432" alt="TraingVsTest_loss" src="https://github.com/user-attachments/assets/6a65c964-f51b-4ecf-8b00-6963f382cde8" />
+
+<img width="576" height="432" alt="TraningVsTest_accuracy" src="https://github.com/user-attachments/assets/63b712b0-39d3-46cf-a02f-fba85a411bc6" />
+
+
